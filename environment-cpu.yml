@@ -1,4 +1,4 @@
-name: deep-learning-with-python
+name: book-keras
 
 dependencies:
 - python=3.6

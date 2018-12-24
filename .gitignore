@@ -17,3 +17,9 @@ datasets/*.tar.gz
 images/*
 dream_at_scale*
 style_transfer_result*
+
+# Mac
+.DS_Store
+
+# vscode
+.vscode

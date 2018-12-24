@@ -32,3 +32,6 @@
     * [8.4: 변이형 오토인코더를 사용한 이미지 생성](http://nbviewer.jupyter.org/github/rickiepark/deep-learning-with-python-notebooks/blob/master/8.4-generating-images-with-vaes.ipynb)
     * [8.5: 적대적 생성 신경망 소개](http://nbviewer.jupyter.org/github/rickiepark/deep-learning-with-python-notebooks/blob/master/8.5-introduction-to-gans.ipynb
 )
+
+## TODO
+* [colab](https://colab.google.research.com/)에서 실행 가능하도록 코드 수정
