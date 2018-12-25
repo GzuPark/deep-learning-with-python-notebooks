@@ -11,7 +11,7 @@
 * 3장:
     * [3.4: 영화 리뷰 분류](http://nbviewer.jupyter.org/github/rickiepark/deep-learning-with-python-notebooks/blob/master/3.4-classifying-movie-reviews.ipynb), [[colab]](https://colab.research.google.com/github/GzuPark/deep-learning-with-python-notebooks/blob/master/3.4-classifying-movie-reviews.ipynb)
     * [3.5: 뉴스 기사 분류](http://nbviewer.jupyter.org/github/rickiepark/deep-learning-with-python-notebooks/blob/master/3.5-classifying-newswires.ipynb), [[colab]](https://colab.research.google.com/github/GzuPark/deep-learning-with-python-notebooks/blob/master/3.5-classifying-newswires.ipynb)
-    * [3.6: 주택 가격 예측](http://nbviewer.jupyter.org/github/rickiepark/deep-learning-with-python-notebooks/blob/master/3.6-predicting-house-prices.ipynb)
+    * [3.6: 주택 가격 예측](http://nbviewer.jupyter.org/github/rickiepark/deep-learning-with-python-notebooks/blob/master/3.6-predicting-house-prices.ipynb), [[colab]](https://colab.research.google.com/github/GzuPark/deep-learning-with-python-notebooks/blob/master/3.6-predicting-house-prices.ipynb)
 * 4장:
     * [4.4: 과대적합과 과소적합](http://nbviewer.jupyter.org/github/rickiepark/deep-learning-with-python-notebooks/blob/master/4.4-overfitting-and-underfitting.ipynb)
 * 5장:
